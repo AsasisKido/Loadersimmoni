@@ -1,3 +1,4 @@
 ahmedov=testpass
+zahar=123
 simmoni=123
 user3=password3
