@@ -1,4 +1,4 @@
-ahmedov=testpass
+ahmedov=999222Eg
 zahar=123
 simmoni=123
 user3=password3
