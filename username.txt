@@ -1,2 +1,2 @@
-username=test
-password=cheattest
+ahmedov=999222Eg
+simmoni=betatest
