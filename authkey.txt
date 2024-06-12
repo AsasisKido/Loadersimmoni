@@ -1,1 +1,1 @@
-keyAuth=privatekeytest
+keyAuth=private
