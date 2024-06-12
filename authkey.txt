@@ -1,3 +1,1 @@
-{
-  "authkey": "privatekey123"
-}
+authkey=privatekey123
