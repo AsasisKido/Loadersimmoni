@@ -1,1 +1,1 @@
-authkey=privatekey123
+keyAuth=privatekey123
