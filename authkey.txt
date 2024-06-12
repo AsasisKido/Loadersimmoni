@@ -1,1 +1,3 @@
-authkey=423123abcxyz
+{
+  "authkey": "your_unique_authentication_key"
+}
