@@ -6,3 +6,4 @@ B1ackDay=123654
 WOTEMBER=SUPER
 3DAY=SCX
 otta=3day
+awarp=scm
