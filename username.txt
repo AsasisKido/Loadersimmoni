@@ -7,3 +7,4 @@ WOTEMBER=SUPER
 3DAY=SCX
 otta=3day
 awarp=scm
+neeasy=3day
