@@ -8,3 +8,4 @@ WOTEMBER=SUPER
 otta=3day
 awarp=scm
 neeasy=3day
+angel=test
