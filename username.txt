@@ -1,5 +1,4 @@
 simmoni=betatest
 XYYY111=adzmacross
 qaba3939=sponsor
-awarp=scm
-neeasy=3day
+UWAGA=3day
